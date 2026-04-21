@@ -18,6 +18,7 @@
 - 🔗 Connect on <a href="https://www.linkedin.com/in/sahil-patil2320" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn
 </a>
+
 - ⚡ Fun fact: I love solving complex problems and automating repetitive tasks to make life easier!  
 - 💼 Open to Work  
 
