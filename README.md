@@ -15,8 +15,7 @@
 - 🌱 I’m currently learning **Java Full Stack Developement**  
 - 💞️ I’m looking to collaborate on exciting projects related to **android applications**, **Java-based apps**, and **scalable web applications**  
 - 📫 Reach me at: **sahilpatil222005@gmail.com**  
-- 🔗 Connect on
-<a href="https://www.linkedin.com/in/sahil-patil2320" target="_blank">
+- 🔗 Connect on <a href="https://www.linkedin.com/in/sahil-patil2320" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn
 </a>
 - ⚡ Fun fact: I love solving complex problems and automating repetitive tasks to make life easier!  
